@@ -16,7 +16,7 @@ This step processes all PDFs in the working directory and creates the vector dat
 python multimodal_rag.py
 ```
 
-### Launch Streamlit UI
+### 2️⃣ Launch Streamlit UI
 
 Run this command to start the UI:
 
